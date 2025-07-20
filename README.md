@@ -90,6 +90,3 @@ pip install -r requirements.txt
 pytest tests/
 ```
 
-## License
-
-MIT License 
