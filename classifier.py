@@ -2,6 +2,7 @@ from transformers import pipeline, AutoModelForSequenceClassification, AutoToken
 import torch
 import numpy as np
 
+
 class ConversationClassifier:
     def __init__(self):
         # Initialize sentiment analysis pipeline
